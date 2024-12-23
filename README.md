@@ -1,4 +1,4 @@
-# MERN Expense Tracker
+# Finance Tracker - GASC
 
 An expense tracking application created using MERN stack and Material-UI. User can register, login, and operate full CRUD methods to their own transaction list and customize their transaction category option. The data will be visualized into a column chart to provide a better view to user's monthly.
 
