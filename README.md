@@ -11,7 +11,7 @@ The client and the server need to be running at the same time. Make sure you hav
 Starting off by cloning the project:
 
 ```bash
-  git clone https://github.com/tduyphat/MERN-Expense-Tracker-VAMK-Thesis-2023
+  git clone https://github.com/mohamedarsath18/Finance-Tracker.git
 ```
 
 Go to the "server" directory:
